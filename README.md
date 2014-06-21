@@ -5,12 +5,13 @@ General Description
 What does your code do? What problem does it solve? 
 
 A litle note: 
-==== - these symbols underline the name of your work. They mark out the main heading.
-###  - these symbols mark headings of 2nd level. 
-''' 
+- ==== - these symbols underline the name of your work. They mark out the main heading.
+- ###  - these symbols mark headings of 2nd level. 
+- anything inside ``` ``` these brackets will be shown in typewriter setting (will look like a code)
+``` 
 print "Hello, world!" 
-''' 
-- anything inside ''' ''' these brackets will be shown in typewriter setting (will look like a code)
+``` 
+- use minus - to make lists!
 These little things make your readme look nicer on github. Thank you!
 
 
